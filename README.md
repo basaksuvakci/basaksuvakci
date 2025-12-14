@@ -1,16 +1,24 @@
-## Hi there 👋
+## Basak Suvakci
+Architect · Researcher · Computational Design
 
-<!--
-**basaksuvakci/basaksuvakci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an architect and researcher working at the intersection of architectural geometry, 
+structural systems, and AI-driven design workflows. My work explores how deep learning 
+models can extract spatial and pattern-based information from architectural data and 
+translate it into measurable metrics and generative design systems.
 
-Here are some ideas to get you started:
+My current research focuses on facade analysis, entropy-based regularity, surface-active 
+structures, and the integration of machine learning with computational geometry tools 
+such as Python and Rhino.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Research interests:
+- AI-driven architectural design
+- Computational geometry and surface-active systems
+- Deep learning for pattern extraction and metric-driven design
+- Data-driven facade analysis (WWR, regularity, entropy)
+- Design-to-fabrication workflows
+
+Selected work:
+- AI-Driven Facade Design Workshop  
+  CycleGAN-based facade analysis → WWR & regularity metrics → Rhino geometry workflows
+
+This GitHub serves as a research notebook and teaching archive.
